@@ -25,16 +25,16 @@ The **HLS/DPU flow is described in the paper** but is not included here because 
 ## 📐 Network & Hardware Architecture
 
 ### CNN Architecture
-*(From Fig. 1 of the paper)*  
-![CNN Architecture](docs/fig1_network.png)
+
+![CNN Architecture](doc/fig1_network.png)
 
 ### Handcrafted RTL Accelerator (HDL)
-*(From Fig. 2 of the paper)*  
-![HDL Architecture](docs/fig2_hdl_arch.png)
+
+![HDL Architecture](doc/fig2_hdl_arch.png)
 
 ### HLS / DPU Accelerator (for comparison)
-*(From Fig. 3 of the paper)*  
-![HLS Architecture](docs/fig3_hls_arch.png)
+
+![HLS Architecture](doc/fig3_hls_arch.png)
 
 ---
 
