@@ -1,1 +1,1 @@
-# FPGA-Radar-Based-Hand-Gesture-Recognition
+# Neural Network Accelerator RTL Design \& FPGA Deployment
