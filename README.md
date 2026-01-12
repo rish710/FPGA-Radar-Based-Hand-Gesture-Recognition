@@ -65,6 +65,8 @@ The RTL design follows a **modular, layer-wise hardware architecture**:
 All intermediate feature maps, weights, and biases are stored in **on-chip BRAMs** to minimize external memory access and improve power efficiency.
 
 ---
+
+```text
 📁 Neural-Network-Accelerator-RTL-FPGA
 │
 ├── 📁 src
@@ -88,6 +90,7 @@ All intermediate feature maps, weights, and biases are stored in **on-chip BRAMs
 └── 📄 README.md
 
 
+```
 
 ---
 
